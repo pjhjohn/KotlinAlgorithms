@@ -1,6 +1,7 @@
 package study.kotlin.chapter1.filepermission
 
-import org.assertj.core.api.Assertions.*
+import org.assertj.core.api.Assertions.assertThat
+import org.assertj.core.api.Assertions.assertThatIllegalArgumentException
 import org.junit.After
 import org.junit.Before
 import org.junit.Test
